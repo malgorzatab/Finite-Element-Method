@@ -1,0 +1,4 @@
+﻿  GlobalData.cpp
+c:\users\gosia\documents\visual studio 2017\projects\projektmes\projektmes\globaldata.cpp(154): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  ProjektMES.vcxproj -> C:\Users\Gosia\Documents\Visual Studio 2017\Projects\ProjektMES\Debug\ProjektMES.exe
+  ProjektMES.vcxproj -> C:\Users\Gosia\Documents\Visual Studio 2017\Projects\ProjektMES\Debug\ProjektMES.pdb (Partial PDB)
